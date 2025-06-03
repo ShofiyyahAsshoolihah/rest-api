@@ -75,7 +75,7 @@
         <div class="row pt-4 mb-4">
           <div class="col text-center">
             <h2>Social Media</h2>
-          </div> 
+          </div>
         </div>
         
         <div class="row justify-content-center">
