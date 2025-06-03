@@ -228,7 +228,7 @@
             <ul class="list-group mb-4">
               <li class="list-group-item"><h3>Location</h3></li>
               <li class="list-group-item">My Office</li>
-              <li class="list-group-item">Simpang 4 Sungai Bangek</li>
+              <li class="list-group-item">Kost Putri Simpang 4 Sungai Bangek</li>
               <li class="list-group-item">Padang, West Sumatera, Indonesia</li>
             </ul>
           </div>
