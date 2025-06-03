@@ -43,7 +43,7 @@
         <div class="text-center">
           <img src="img/portprofile.jpg" class="rounded-circle img-thumbnail" style="width: 250px; height: 250px; object-fit: cover; border 5px">
           <h1 class="display-4">Shofiyyah Asshoolihah</h1>
-          <h3 class="lead">College | Programmer | Youtuber</h3>
+          <h3 class="lead">College Student | Programmer | Youtuber</h3>
         </div>
       </div>
     </div>
@@ -273,7 +273,6 @@
         </div>
       </div>
     </footer>
-
 
 
 
